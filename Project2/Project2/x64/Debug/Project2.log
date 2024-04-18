@@ -1,0 +1,54 @@
+﻿  Source.cpp
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(19,19): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(19,19): warning C4244:         with
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(19,19): warning C4244:         [
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(19,19): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(19,19): warning C4244:         ]
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(50,19): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(50,19): warning C4244:         with
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(50,19): warning C4244:         [
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(50,19): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(50,19): warning C4244:         ]
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(90,51): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(90,51): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(93,35): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(93,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(93,75): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(93,75): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(198,31): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(198,31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(314,44): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(314,44): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(316,23): warning C4244: 'initializing': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(317,25): warning C4244: 'initializing': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(318,24): warning C4244: 'initializing': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(424,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(425,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(426,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(653,42): warning C4244: 'argument': conversion from 'const time_t' to 'double', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(685,34): warning C4244: 'initializing': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(731,41): warning C4244: 'initializing': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(732,41): warning C4244: 'initializing': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(733,41): warning C4244: 'initializing': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(773,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(790,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(871,122): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(880,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(883,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(913,122): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(922,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(925,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(954,122): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(963,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(966,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(994,122): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(1003,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(1006,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(1034,122): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(1043,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(1046,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(1074,122): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(1083,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(1086,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\Project2\Source.cpp(1321,41): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project2.vcxproj -> C:\Users\ttk08\Downloads\Rhythm-Rush-project___SDL_game___\Project2\x64\Debug\Project2.exe
