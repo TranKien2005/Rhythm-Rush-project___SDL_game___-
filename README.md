@@ -45,7 +45,7 @@ Installation:
 Clone the project from GitHub to your computer:
 bash
 Copy code
-git clone https://github.com/kienabcdf/Rhythm-Rush-project___SDL_game___ (error account, now clone here)
+git clone https://github.com/kienabcdf/Rhythm-Rush-project___SDL_game___
 
 or download raw file from this project.
 
@@ -68,3 +68,13 @@ The project is free to use, copy, distribute, or modify.
 #Contact
 
 If you have any questions or suggestions, please feel free to contact us via email: ttk08112005@gmail.com
+
+#Note
+
+If you want clone project remember install sdl 
+"C:\Users\ttk08\Downloads\SDL2_ttf-devel-2.0.12-VC"
+"C:\Users\ttk08\Downloads\SDL2_mixer-devel-2.8.0-VC"
+"C:\Users\ttk08\Downloads\SDL2-devel-2.28.5-VC"
+"C:\Users\ttk08\Downloads\SDL2_image-devel-2.0.0-VC"
+"C:\Users\ttk08\Downloads\SFML-2.6.0-windows-vc17-64-bit"
+like that path if your use file .sln for vs
