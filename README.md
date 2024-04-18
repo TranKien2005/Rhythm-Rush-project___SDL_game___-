@@ -45,7 +45,7 @@ Installation:
 Clone the project from GitHub to your computer:
 bash
 Copy code
-git clone https://github.com/kienabcdf/Rhythm-Rush-project___SDL_game___
+git clone https://github.com/kienabcdf/Rhythm-Rush-project___SDL_game___ (error account, now clone here)
 
 or download raw file from this project.
 
