@@ -1,4 +1,4 @@
-## Introduction to the Project
+# Introduction to the Project
 Welcome to the Rhythm Rush project!
 
 
