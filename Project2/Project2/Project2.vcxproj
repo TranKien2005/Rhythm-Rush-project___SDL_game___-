@@ -104,12 +104,12 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\ttk08\Downloads\SDL2_ttf-devel-2.0.12-VC\SDL2_ttf-2.0.12\include;C:\Users\ttk08\Downloads\SDL2_mixer-devel-2.8.0-VC\SDL2_mixer-2.8.0\include;C:\Users\ttk08\Downloads\SDL2_image-devel-2.0.0-VC\SDL2_image-2.0.0\include;C:\Users\ttk08\Downloads\SDL2-devel-2.28.5-VC\SDL2-2.28.5\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\ttk08\source\repos\TranKien2005\Rhythm-Rush-project___SDL_game___-\Project2\Libary\SDL2-devel-2.30.7-VC\SDL2-2.30.7\include;C:\Users\ttk08\source\repos\TranKien2005\Rhythm-Rush-project___SDL_game___-\Project2\Libary\SDL2_ttf-devel-2.22.0-VC\SDL2_ttf-2.22.0\include;C:\Users\ttk08\source\repos\TranKien2005\Rhythm-Rush-project___SDL_game___-\Project2\Libary\SDL2_mixer-devel-2.8.0-VC\SDL2_mixer-2.8.0\include;C:\Users\ttk08\source\repos\TranKien2005\Rhythm-Rush-project___SDL_game___-\Project2\Libary\SDL2_image-devel-2.8.2-VC\SDL2_image-2.8.2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\Users\ttk08\Downloads\SDL2_ttf-devel-2.0.12-VC\SDL2_ttf-2.0.12\lib\x64;C:\Users\ttk08\Downloads\SDL2_mixer-devel-2.8.0-VC\SDL2_mixer-2.8.0\lib\x64;C:\Users\ttk08\Downloads\SDL2_image-devel-2.0.0-VC\SDL2_image-2.0.0\lib\x64;C:\Users\ttk08\Downloads\SDL2-devel-2.28.5-VC\SDL2-2.28.5\lib\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\ttk08\source\repos\TranKien2005\Rhythm-Rush-project___SDL_game___-\Project2\Libary\SDL2-devel-2.30.7-VC\SDL2-2.30.7\lib\x64;C:\Users\ttk08\source\repos\TranKien2005\Rhythm-Rush-project___SDL_game___-\Project2\Libary\SDL2_ttf-devel-2.22.0-VC\SDL2_ttf-2.22.0\lib\x64;C:\Users\ttk08\source\repos\TranKien2005\Rhythm-Rush-project___SDL_game___-\Project2\Libary\SDL2_mixer-devel-2.8.0-VC\SDL2_mixer-2.8.0\lib\x64;C:\Users\ttk08\source\repos\TranKien2005\Rhythm-Rush-project___SDL_game___-\Project2\Libary\SDL2_image-devel-2.8.2-VC\SDL2_image-2.8.2\lib\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>SDL2_image.lib;SDL2.lib;SDL2main.lib;SDL2test.lib;SDL2_mixer.lib;SDL2_ttf.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>

@@ -10,6 +10,7 @@
 #include<SDL_ttf.h>
 #include<thread>
 #include<fstream>
+#include<string>
 using namespace std;
 
 
