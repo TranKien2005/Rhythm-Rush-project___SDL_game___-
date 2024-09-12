@@ -50,12 +50,17 @@ Windows, Linux, or macOS operating system.
 
 Installation:
 
-Clone the project from GitHub to your computer:
-bash
-Copy code
-git clone https://github.com/kienabcdf/Rhythm-Rush-project___SDL_game___
+Installation
+Clone the Project for Development
+If you want to develop, modify, or reference the source code of this project, you can clone the project to your local machine.
 
-or download raw file from this project.
+
+Download the Game
+To play the game, you can download it from the Releases section:
+
+Go to the Releases section of this repository.
+Download the latest version of the game.
+Follow the instructions to install and run the game on your system.
 
 # Usage
 
